@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/GCard.iml" filepath="$PROJECT_DIR$/GCard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/SnowSurfaceView.iml" filepath="$PROJECT_DIR$/.idea/SnowSurfaceView.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
